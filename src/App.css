@@ -1,0 +1,13 @@
+.App {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+@media screen and (min-width: 1000px) {
+  .container-menu {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px;
+  }
+}
